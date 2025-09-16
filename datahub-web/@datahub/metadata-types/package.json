@@ -22,10 +22,10 @@
   },
   "dependencies": {
     "@datahub/utils": "0.0.0",
-    "@glimmer/component": "^1.0.2",
+    "@glimmer/component": "^2.0.0",
     "@glimmer/tracking": "^1.0.2",
-    "ember-auto-import": "^1.5.3",
-    "ember-cli-babel": "^7.17.2",
+    "ember-auto-import": "^1.8.0",
+    "ember-cli-babel": "^8.0.0",
     "ember-cli-htmlbars": "^4.2.2",
     "ember-cli-typescript": "^3.1.3"
   },
