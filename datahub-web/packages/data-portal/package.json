@@ -78,7 +78,7 @@
     "@glimmer/component": "^1.0.2",
     "@glimmer/tracking": "^1.0.2",
     "@types/vis": "^4.21.11",
-    "ember-auto-import": "^1.5.3",
+    "ember-auto-import": "^2.0.0",
     "ember-cli-babel": "^7.17.2",
     "ember-cli-deprecation-workflow": "^1.0.1",
     "ember-cli-typescript": "^3.1.3",
