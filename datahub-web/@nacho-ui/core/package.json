@@ -37,7 +37,7 @@
     "ember-power-select": "^2.0.9",
     "ember-power-select-typeahead": "^0.7.2",
     "ember-truth-helpers": "^2.1.0",
-    "eyeglass": "^2.4.2",
+    "eyeglass": "^3.0.0",
     "eyeglass-restyle": "^1.1.0"
   },
   "devDependencies": {
